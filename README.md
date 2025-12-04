@@ -1,2 +1,2 @@
 # Multiple Linear Regression
-Demonstration of multiple linear regression using Pytorch in Google Colab. Dataset is derived from GCAM, including historical data on GDP, population size, and energy consumption.
+This exercise demonstrates multiple linear regression (also called multiple regression), where two or more predictor variables (here, GDP and population) are used to predict a single outcome variable (building energy consumption). This differs from simple linear regression, which uses only one predictor, and from multivariate regression, which models multiple outcome variables simultaneously. The implementation uses PyTorch in Google Colab with a dataset derived from GCAM that includes historical GDP, population, and energy consumption data.
